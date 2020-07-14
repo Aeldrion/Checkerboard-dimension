@@ -1,0 +1,44 @@
+{
+  "starts": [],
+  "spawners": {
+    "water_ambient": [],
+    "ambient": [],
+    "misc": [],
+    "water_creature": [],
+    "creature": [],
+    "monster": []
+  },
+  "sky_color": 8103167,
+  "surface_builder": "minecraft:nope",
+  "spawn_costs": {},
+  "carvers": {
+    "air": []
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "ael:white_checkerboard_tile"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "scale": 0.2,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "precipitation": "rain",
+  "category": "plains",
+  "depth": 0.1
+}

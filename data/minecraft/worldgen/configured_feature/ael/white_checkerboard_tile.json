@@ -1,0 +1,9 @@
+{
+	"name": "minecraft:fill_layer",
+	"config": {
+		"state": {
+			"Name": "minecraft:white_concrete"
+		},
+		"height": 32
+	}
+}
